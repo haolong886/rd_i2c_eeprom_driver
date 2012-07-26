@@ -1,0 +1,1 @@
+cmd_/usr/src/rd_board/rd_e2prom/rd_e2prom_module.ko := arm-none-linux-gnueabi-ld -EL -r  -T /usr/local/dvsdk/psp/linux-2.6.32-psp03.00.01.06.sdk/scripts/module-common.lds --build-id -o /usr/src/rd_board/rd_e2prom/rd_e2prom_module.ko /usr/src/rd_board/rd_e2prom/rd_e2prom_module.o /usr/src/rd_board/rd_e2prom/rd_e2prom_module.mod.o

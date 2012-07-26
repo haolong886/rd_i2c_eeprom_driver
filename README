@@ -1,0 +1,1 @@
+这是一个EEPROM设备驱动，基于linux-2.6.32,使用sysfs接口读写EEPROM
